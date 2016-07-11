@@ -3,9 +3,9 @@ body{
 }
 
 #ingredient{
-  border:2px solid lightgreen;
+  border:2px solid green;
 }
 
 th,td{
-  border:1px solid lightgreen;
+  border:1px solid green;
 }
