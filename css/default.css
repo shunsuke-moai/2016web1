@@ -1,1 +1,11 @@
+body{
+  background-color:#D0E0F0;
+}
 
+#ingredient{
+  border:2px solid lightcoral;
+}
+
+th,td{
+  border:1px solid lightcoral;
+}
